@@ -67,7 +67,6 @@
 
     function keyupEvent(element, position) {
       window.addEventListener("keyup", (event) => {
-        console.log("arriba")
         if (event.keyCode === parseInt(element[position].dataset.key)) {
           element[position].classList.remove("playing");
         }
