@@ -3,9 +3,8 @@
 
 ### Day 13 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/01%20-%20JavaScript%20Drum%20Kit">01 - JavaScript Drum Kit</a>   :heavy_check_mark:
  
-### Day 14 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/02%20-%20JS%20and%20CSS%20Clock">02 - JS and CSS Clock</a> 
-
-### Day 15 SEP Chalenge: 
+### Day 14 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/02%20-%20JS%20and%20CSS%20Clock">02 - JS and CSS Clock</a> :heavy_check_mark:
+### Day 15 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/03%20-%20CSS%20Variables">03 - CSS Variables</a>
 
 ### Day 16 SEP Chalenge: 
 
