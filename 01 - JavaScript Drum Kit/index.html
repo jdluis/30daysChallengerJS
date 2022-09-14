@@ -60,6 +60,22 @@
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
   <script>
+
+    /*
+    Refact code will be: take the event.keyCode and acces directly without for..
+    
+    const key = document.querySelectorAll(`.key[data-key="${event.keyCode}"]`);
+    const audio = document.querySelectorAll(`audio[data-key="${event.keyCode}"]`);
+
+    if(!audio) return;
+    audio.currentTime = 0;
+    audio.play();
+    key.classList.add("playing");
+    etc...
+
+    */
+
+    //My Solution:
     const keysAll = document.querySelectorAll(".key");
     const audioColection = document.querySelectorAll("audio");
 
@@ -87,7 +103,7 @@
     }
   </script>
 
-
+<div class="container"></div>
 </body>
 
 </html>

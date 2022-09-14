@@ -1,19 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>JS + CSS Clock</title>
 </head>
+
 <body>
 
 
-    <div class="clock">
-      <div class="clock-face">
-        <div class="hand hour-hand"></div>
-        <div class="hand min-hand"></div>
-        <div class="hand second-hand"></div>
-      </div>
+  <div class="clock">
+    <div class="clock-face">
+      <div class="hand hour-hand"></div>
+      <div class="hand min-hand"></div>
+      <div class="hand second-hand"></div>
     </div>
+  </div>
 
 
   <style>
@@ -36,6 +38,7 @@
 
     .clock {
       width: 30rem;
+      min-width: 300px;
       height: 30rem;
       border: 20px solid white;
       border-radius: 50%;
@@ -43,32 +46,74 @@
       position: relative;
       padding: 2rem;
       box-shadow:
-        0 0 0 4px rgba(0,0,0,0.1),
+        0 0 0 4px rgba(0, 0, 0, 0.1),
         inset 0 0 0 3px #EFEFEF,
         inset 0 0 10px black,
-        0 0 10px rgba(0,0,0,0.2);
+        0 0 10px rgba(0, 0, 0, 0.2);
     }
 
     .clock-face {
       position: relative;
       width: 100%;
       height: 100%;
-      transform: translateY(-3px); /* account for the height of the clock hands */
+      transform: translateY(-3px);
+      /* account for the height of the clock hands */
+    }
+
+    :root {
+      --rotate-min: 90deg;
     }
 
     .hand {
+
       width: 50%;
+
       height: 6px;
       background: black;
       position: absolute;
       top: 50%;
+      transform-origin: 100%;
+      rotate: 90deg;
     }
 
+    .second-hand {
+      background-color: #a7baa5;
+
+    }
+
+    .min-hand {
+      background-color: #c8f406;
+      width: 40%;
+      left: 30px;
+    }
+
+    .hour-hand {
+      background-color: #fa0707;
+      width: 30%;
+      left: 60px;
+    }
   </style>
 
   <script>
+    let second_hand = document.querySelector(".second-hand");
+    let min_hand = document.querySelector(".min-hand");
+    let hour_hand = document.querySelector(".hour-hand");
 
+    function moveTimeHand() {
+      const date = new Date;
+      const second = date.getSeconds();
+      const secondDegress = ((second / 60) * 360) + 90;
+      const minuts = date.getMinutes();
+      const minutesDegress = ((minuts / 60) * 360) + 90;
+      const hours = date.getHours();
+      const hoursDegress = ((hours / 12) * 360) + 90;
 
+      second_hand.style.transform = `rotate(${secondDegress}deg)`;
+      min_hand.style.transform = `rotate(${minutesDegress}deg)`;
+      hour_hand.style.transform = `rotate(${hoursDegress}deg)`;
+    }
+    setInterval(moveTimeHand, 1000);
   </script>
 </body>
+
 </html>
