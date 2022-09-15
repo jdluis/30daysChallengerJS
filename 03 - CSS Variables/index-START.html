@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Scoped CSS Variables and JS</title>
 </head>
+
 <body>
   <h2>Update CSS Variables with <span class='hl'>JS</span></h2>
 
@@ -17,11 +19,10 @@
     <label for="base">Base Color</label>
     <input id="base" type="color" name="base" value="#ffc600">
   </div>
+  <img id="img-custom" src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
 
-  <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
 
   <style>
-
     /*
       misc styles, nothing to do with CSS variables
     */
@@ -45,7 +46,33 @@
   </style>
 
   <script>
+    const js = document.querySelector(".hl");
+    const colorOption = document.querySelector("#base");
+    const blurOption = document.querySelector("#blur");
+    const spacingOption = document.querySelector("#spacing");
+    const imgToCustom = document.querySelector("#img-custom");
+
+    imgToCustom.style.background = "yellow";
+    imgToCustom.style.filter = "blur(0px)";
+    imgToCustom.style.padding = "5px";
+
+    colorOption.addEventListener("change", () => {
+      js.style.color = colorOption.value;
+      imgToCustom.style.background = colorOption.value;
+
+    })
+
+    blurOption.addEventListener("change", () => {
+      imgToCustom.style.filter = `blur(${blurOption.value}px)`;
+
+    })
+
+    spacingOption.addEventListener("change", () => {
+      imgToCustom.style.padding = `${spacingOption.value}px`;
+
+    })
   </script>
 
 </body>
+
 </html>
