@@ -6,7 +6,7 @@
 ### Day 14 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/02%20-%20JS%20and%20CSS%20Clock">02 - JS and CSS Clock</a> :heavy_check_mark:
 ### Day 15 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/03%20-%20CSS%20Variables">03 - CSS Variables</a> :heavy_check_mark:
 
-### Day 16 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/04%20-%20Array%20Cardio%20Day%201">
+### Day 16 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/04%20-%20Array%20Cardio%20Day%201">04 - Array Cardio Day 1</a>
 
 ### Day 17 SEP Chalenge: 
 
