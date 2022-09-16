@@ -4,11 +4,11 @@
 ### Day 13 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/01%20-%20JavaScript%20Drum%20Kit">01 - JavaScript Drum Kit</a>   :heavy_check_mark:
  
 ### Day 14 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/02%20-%20JS%20and%20CSS%20Clock">02 - JS and CSS Clock</a> :heavy_check_mark:
-### Day 15 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/03%20-%20CSS%20Variables">03 - CSS Variables</a>
+### Day 15 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/03%20-%20CSS%20Variables">03 - CSS Variables</a> :heavy_check_mark:
 
-### Day 16 SEP Chalenge: 
+### Day 16 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/04%20-%20Array%20Cardio%20Day%201">04 - Array Cardio Day 1</a>:heavy_check_mark:
 
-### Day 17 SEP Chalenge: 
+### Day 17 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/05%20-%20Flex%20Panel%20Gallery" >05 - Flex Panel Gallery</a>
 
 ### Day 18 SEP Chalenge: 
 
