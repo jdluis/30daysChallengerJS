@@ -8,9 +8,9 @@
 
 ### Day 16 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/04%20-%20Array%20Cardio%20Day%201">04 - Array Cardio Day 1</a>:heavy_check_mark:
 
-### Day 17 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/05%20-%20Flex%20Panel%20Gallery" >05 - Flex Panel Gallery</a>
+### Day 17 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/05%20-%20Flex%20Panel%20Gallery" >05 - Flex Panel Gallery</a>:heavy_check_mark:
 
-### Day 18 SEP Chalenge: 
+### Day 18 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/06%20-%20Type%20Ahead"> 06 - Type Ahead </a>
 
 ### Day 19 SEP Chalenge: 
 
