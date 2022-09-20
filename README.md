@@ -14,9 +14,9 @@
 
 ### Day 19 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/07%20-%20Array%20Cardio%20Day%202">07 - Array Cardio Day 2</a>:heavy_check_mark:
 
-### Day 20 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas">08 - Fun with HTML5 Canvas
+### Day 20 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas">08 - Fun with HTML5 Canvas </a>:heavy_check_mark:
 
-### Day 21 SEP Chalenge: 
+### Day 21 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/09%20-%20Dev%20Tools%20Domination">09 - Dev Tools Domination </a>
 
 ### Day 22 SEP Chalenge: 
 
