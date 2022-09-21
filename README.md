@@ -16,9 +16,9 @@
 
 ### Day 20 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/08%20-%20Fun%20with%20HTML5%20Canvas">08 - Fun with HTML5 Canvas </a>:heavy_check_mark:
 
-### Day 21 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/09%20-%20Dev%20Tools%20Domination">09 - Dev Tools Domination </a>
+### Day 21 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/09%20-%20Dev%20Tools%20Domination">09 - Dev Tools Domination </a>:heavy_check_mark:
 
-### Day 22 SEP Chalenge: 
+### Day 22 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes">10 - Hold Shift and Check Checkboxes </a>
 
 ### Day 23 SEP Chalenge: 
 
