@@ -96,6 +96,25 @@
   </div>
 
 <script>
+  const inputsCheckboxs = document.querySelectorAll('input[type=checkbox]');
+  let lastChecked;
+  function handleCheck (e){
+    debugger
+    let isBetewn = false;
+    if (e.shiftKey && this.checked) {
+      inputsCheckboxs.forEach(checkbox => {
+        console.log(checkbox)
+        if (checkbox === this || checkbox === lastChecked) { //Aqui solo entra en caso de que sea el primero o el ultimo
+          isBetewn = !isBetewn; //la primera vez que entra lo pone en true y la ultima en false, los que estan en medio nunca entraran pq no cumplen la condicion.
+          console.log("cheking bettiewn")
+        }
+        if (isBetewn) {checkbox.checked = true;}
+      })
+    }
+
+    lastChecked = this;
+  }
+  inputsCheckboxs.forEach(checkbox => checkbox.addEventListener("click", handleCheck));
 </script>
 </body>
 </html>
