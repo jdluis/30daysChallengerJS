@@ -20,9 +20,10 @@
 
 ### Day 22 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes">10 - Hold Shift and Check Checkboxes </a>:heavy_check_mark:
 
-### Day 23 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/11%20-%20Custom%20Video%20Player">11 - Custom Video Player</a>
+### Day 23 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/11%20-%20Custom%20Video%20Player">11 - Custom Video Player</a>:heavy_check_mark:
 
-### Day 24 SEP Chalenge: 
+### Day 24 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/12%20-%20Key%20Sequence%20Detection">12 - Key Sequence Detection</a>
+
 
 ### Day 25 SEP Chalenge: 
 
