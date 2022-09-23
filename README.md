@@ -18,9 +18,9 @@
 
 ### Day 21 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/09%20-%20Dev%20Tools%20Domination">09 - Dev Tools Domination </a>:heavy_check_mark:
 
-### Day 22 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes">10 - Hold Shift and Check Checkboxes </a>
+### Day 22 SEP Chalenge:  <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes">10 - Hold Shift and Check Checkboxes </a>:heavy_check_mark:
 
-### Day 23 SEP Chalenge: 
+### Day 23 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/11%20-%20Custom%20Video%20Player">11 - Custom Video Player</a>
 
 ### Day 24 SEP Chalenge: 
 
