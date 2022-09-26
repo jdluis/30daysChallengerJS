@@ -7,6 +7,21 @@
 </head>
 <body>
 <script>
+  const pressedKey = [];
+  const secretCode = 'abakua';
+
+  window.addEventListener("keyup", (e) => {
+   
+    //I push inside the array the press key.
+    pressedKey.push(e.key);
+    //We remove the key from one position and put it in another specified place, the new value.
+    pressedKey.splice(-secretCode.length -1, pressedKey.length - secretCode.length)
+    
+    if (pressedKey.join("") === secretCode) {
+      console.log("Well Done, you discover a secret section")
+      cornify_add();
+    }
+  })
 </script>
 </body>
 </html>
