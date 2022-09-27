@@ -22,14 +22,13 @@
 
 ### Day 23 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/11%20-%20Custom%20Video%20Player">11 - Custom Video Player</a>:heavy_check_mark:
 
-### Day 24 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/12%20-%20Key%20Sequence%20Detection">12 - Key Sequence Detection</a>
+### Day 24 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/12%20-%20Key%20Sequence%20Detection">12 - Key Sequence Detection</a>:heavy_check_mark:
 
+### Day 25 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/13%20-%20Slide%20in%20on%20Scroll">/13 - Slide in on Scroll</a>
 
-### Day 25 SEP Chalenge: 
+### Day 26 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/14%20-%20JavaScript%20References%20VS%20Copying">14 - JavaScript References VS Copying</a>
 
-### Day 26 SEP Chalenge: 
-
-### Day 27 SEP Chalenge: 
+### Day 27 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/15%20-%20LocalStorage">15 - LocalStorage</a>
 
 ### Day 28 SEP Chalenge: 
 
