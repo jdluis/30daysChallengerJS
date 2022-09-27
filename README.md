@@ -24,7 +24,7 @@
 
 ### Day 24 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/12%20-%20Key%20Sequence%20Detection">12 - Key Sequence Detection</a>:heavy_check_mark:
 
-### Day 25 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/13%20-%20Slide%20in%20on%20Scroll">/13 - Slide in on Scroll</a>
+### Day 25 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/13%20-%20Slide%20in%20on%20Scroll">13 - Slide in on Scroll</a>:heavy_check_mark:
 
 ### Day 26 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/14%20-%20JavaScript%20References%20VS%20Copying">14 - JavaScript References VS Copying</a>
 
