@@ -28,7 +28,7 @@
 
 ### Day 26 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/14%20-%20JavaScript%20References%20VS%20Copying">14 - JavaScript References VS Copying</a>:heavy_check_mark:
 
-### Day 27 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/15%20-%20LocalStorage">15 - LocalStorage</a>
+### Day 27 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/15%20-%20LocalStorage">15 - LocalStorage</a>:heavy_check_mark:
 
-### Day 28 SEP Chalenge: 
+### Day 28 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/16%20-%20Mouse%20Move%20Shadow">16 - Mouse Move Shadow</a>:heavy_check_mark:
 
