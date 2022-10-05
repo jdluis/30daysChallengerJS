@@ -182,6 +182,31 @@
     </li>
   </ul>
 <script>
+  const timeNodes = [...document.querySelectorAll('[data-time]')];
+  //We can convert in to Array with:  Array.from()
+  console.log(timeNodes);
+  console.log(typeof(timeNodes));
+
+
+  const seconds = timeNodes
+  .map(node=> node.dataset.time)
+  .map(timeCode => {
+    const [mins, secs] = timeCode.split(':')
+    .map(parseFloat);
+    return (mins * 60) + secs;
+  })
+  .reduce((total,vidSeconds) => total + vidSeconds);
+
+  let secondLeft = seconds;
+
+  const hours = Math.floor(secondLeft / 3600);
+  secondLeft = secondLeft % 3600;
+
+  const mins = Math.floor(secondLeft/60);
+  secondLeft = secondLeft % 60;
+
+
+  console.log(hours, mins, secondLeft);
 </script>
 </body>
 </html>
