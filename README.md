@@ -33,7 +33,7 @@
 ### Day 28 SEP Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/16%20-%20Mouse%20Move%20Shadow">16 - Mouse Move Shadow</a>:heavy_check_mark:
 
  ### Day 4 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/17%20-%20Sort%20Without%20Articles">17 - Sort Without Articles</a>:heavy_check_mark:
-### Day 5 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/18%20-%20Adding%20Up%20Times%20with%20Reduce">18 - Adding Up Times with Reduce</a>
+### Day 5 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/18%20-%20Adding%20Up%20Times%20with%20Reduce">18 - Adding Up Times with Reduce</a>:heavy_check_mark:
 
 ### Day 6 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/19%20-%20Webcam%20Fun">19 - Webcam Fun</a>
 
