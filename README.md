@@ -35,15 +35,15 @@
  ### Day 4 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/17%20-%20Sort%20Without%20Articles">17 - Sort Without Articles</a>:heavy_check_mark:
 ### Day 5 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/18%20-%20Adding%20Up%20Times%20with%20Reduce">18 - Adding Up Times with Reduce</a>:heavy_check_mark:
 
-### Day 6 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/19%20-%20Webcam%20Fun">19 - Webcam Fun</a>
+### Day 7 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/19%20-%20Webcam%20Fun">19 - Webcam Fun</a>
 
-### Day 7 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/20%20-%20Speech%20Detection">20 - Speech Detection</a>
+### Day 8 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/20%20-%20Speech%20Detection">20 - Speech Detection</a>
 
-### Day 8 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/21%20-%20Geolocation">21 - Geolocation</a>
+### Day 9 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/21%20-%20Geolocation">21 - Geolocation</a>
 
-### Day 9 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">22 - Follow Along Link Highlighter</a>
+### Day 10 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">22 - Follow Along Link Highlighter</a>
 
-### Day 10 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>
+### Day 11 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>
 
-### Day 11 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>
+### Day 12 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>
 
