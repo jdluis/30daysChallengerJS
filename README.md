@@ -37,13 +37,13 @@
 
 ### Day 7 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/19%20-%20Webcam%20Fun">19 - Webcam Fun</a>:heavy_check_mark:
 
-### Day 8 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/20%20-%20Speech%20Detection">20 - Speech Detection</a>
+### Day 10 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/20%20-%20Speech%20Detection">20 - Speech Detection</a>
 
-### Day 9 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/21%20-%20Geolocation">21 - Geolocation</a>
+### Day 11 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/21%20-%20Geolocation">21 - Geolocation</a>
 
-### Day 10 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">22 - Follow Along Link Highlighter</a>
+### Day 12 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">22 - Follow Along Link Highlighter</a>
 
-### Day 11 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>
+### Day 13 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>
 
-### Day 12 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>
+### Day 14 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>
 
