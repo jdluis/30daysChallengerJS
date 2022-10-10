@@ -37,7 +37,7 @@
 
 ### Day 7 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/19%20-%20Webcam%20Fun">19 - Webcam Fun</a>:heavy_check_mark:
 
-### Day 10 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/20%20-%20Speech%20Detection">20 - Speech Detection</a>
+### Day 10 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/20%20-%20Speech%20Detection">20 - Speech Detection</a>:heavy_check_mark:
 
 ### Day 11 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/21%20-%20Geolocation">21 - Geolocation</a>
 
