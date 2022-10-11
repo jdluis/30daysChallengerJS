@@ -59,6 +59,26 @@
     /*Compass: https://thenounproject.com/search/?q=compass&i=592352*/
   </style>
   <script>
+    const arrow = document.querySelector('.arrow');
+    const speed = document.querySelector('.speed-value');
+
+    navigator.geolocation.watchPosition((data) => {
+      console.log(data);
+      speed.textContent =  data.coords.speed;
+      arrow.style.transform = `rotate(${data.coords.heading}deg)`;
+
+    }, (err) => {
+      console.log(err);
+      alert('You dont allow the permission of location');
+    })
   </script>
 </body>
 </html>
+New day Challenge, 21 - Geolocation
+
+Demo: https://codepen.io/jdluis/pen/OJZaezY
+
+
+This time, learn how to use Geolocation Object, 'navigator.geolocation' is a fascinating, you can look at the object and imagine how to use for example a Google Map app, of course, this is only an introduction to that, but now I can imagine how to start to do. 
+
+
