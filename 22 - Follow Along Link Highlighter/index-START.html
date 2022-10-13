@@ -33,10 +33,10 @@
 
   <script>
     const triggers = document.querySelectorAll('a');
-    const hightlight = document.createElement('span');
+    const highlight = document.createElement('span');
 
-    hightlight.classList.add('highlight');
-    document.body.append(hightlight);
+    highlight.classList.add('highlight');
+    document.body.append(highlight);
 
     function highlightLink () {
       const linkCoords = this.getBoundingClientRect(); //recovery all the info about the ubnication of the element
@@ -47,9 +47,9 @@
         left: linkCoords.left + window.scrollX,
       }
       
-      hightlight.style.width = `${coords.width}px`;
-      hightlight.style.height = `${coords.height}px`;
-      hightlight.style.transform = `translate(${coords.left}px, ${coords.top}px)`;
+      highlight.style.width = `${coords.width}px`;
+      highlight.style.height = `${coords.height}px`;
+      highlight.style.transform = `translate(${coords.left}px, ${coords.top}px)`;
     }
 
 
