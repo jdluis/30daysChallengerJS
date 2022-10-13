@@ -41,7 +41,7 @@
 
 ### Day 11 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/21%20-%20Geolocation">21 - Geolocation</a>:heavy_check_mark:
 
-### Day 12 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">22 - Follow Along Link Highlighter</a>
+### Day 12 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">22 - Follow Along Link Highlighter</a>:heavy_check_mark:
 
 ### Day 13 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>
 
