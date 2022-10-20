@@ -43,7 +43,7 @@
 
 ### Day 12 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/22%20-%20Follow%20Along%20Link%20Highlighter">22 - Follow Along Link Highlighter</a>:heavy_check_mark:
 
-### Day 13 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>
+### Day 20 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>:heavy_check_mark:
 
-### Day 14 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>
+### Day 21 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>
 
