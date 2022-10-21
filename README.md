@@ -47,3 +47,14 @@
 
 ### Day 21 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>:heavy_check_mark:
 
+### Day 23 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once"> 25 - Event Capture, Propagation...</a> 
+
+### Day 24 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/26%20-%20Stripe%20Follow%20Along%20Nav"> 26 - Stripe Follow Along Nav </a> 
+
+### Day 25 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/27%20-%20Click%20and%20Drag"> 27 - Click and Drag</a> 
+
+### Day 26 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/28%20-%20Video%20Speed%20Controller"> 28 - Video Speed Controller</a> 
+
+### Day 27 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/29%20-%20Countdown%20Timer"> 29 - Countdown Timer</a> 
+
+### Day 28 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/30%20-%20Whack%20A%20Mole"> 30 - Whack A Mole</a> 
