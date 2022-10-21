@@ -21,8 +21,12 @@ body {
   padding: 40px;
   text-align: justify;
   box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.05);
-  transform: scale(0.98);
+  transform: scale(0.97);
   transition: transform 0.5s;
+}
+
+.logoShow .site-wrap{
+  transform: scale(0.99);
 }
 
 header {
@@ -46,7 +50,7 @@ nav {
   top: 0;
   width: 100%;
   transition: all 0.5s;
-  position: relative;
+  position: sticky;
   z-index: 1;
 }
 
@@ -72,6 +76,10 @@ li.logo {
   transition: all .5s;
   font-weight: 600;
   font-size: 30px;
+}
+
+.logoShow li.logo {
+  max-width: 500px ;
 }
 
 li.logo a {

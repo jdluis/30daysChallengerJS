@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <header>
+  <header id="header">
     <h1>A story about getting lost.</h1>
   </header>
 
@@ -54,7 +54,19 @@
   </div>
 
 <script>
+  const header =  document.getElementById('header');
+  const logo = document.querySelector('.logo');
 
+  function fixMenu () {
+    if (window.scrollY > header.scrollHeight) {
+      document.body.classList.add('logoShow')
+    } else {
+      document.body.classList.remove('logoShow')
+    }
+
+  }
+
+  window.addEventListener('scroll', fixMenu);
 </script>
 
 </body>
