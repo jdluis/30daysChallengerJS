@@ -45,5 +45,5 @@
 
 ### Day 20 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/23%20-%20Speech%20Synthesis">23 - Speech Synthesis</a>:heavy_check_mark:
 
-### Day 21 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>
+### Day 21 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>:heavy_check_mark:
 
