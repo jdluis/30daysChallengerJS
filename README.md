@@ -47,7 +47,7 @@
 
 ### Day 21 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/24%20-%20Sticky%20Nav">24 - Sticky Nav</a>:heavy_check_mark:
 
-### Day 23 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once"> 25 - Event Capture, Propagation...</a> 
+### Day 23 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once"> 25 - Event Capture, Propagation...</a>:heavy_check_mark:
 
 ### Day 24 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/26%20-%20Stripe%20Follow%20Along%20Nav"> 26 - Stripe Follow Along Nav </a> 
 
