@@ -51,7 +51,7 @@
 
 ### Day 24 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/26%20-%20Stripe%20Follow%20Along%20Nav"> 26 - Stripe Follow Along Nav </a> :heavy_check_mark:
 
-### Day 25 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/27%20-%20Click%20and%20Drag"> 27 - Click and Drag</a> 
+### Day 25 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/27%20-%20Click%20and%20Drag"> 27 - Click and Drag</a> :heavy_check_mark:
 
 ### Day 26 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/28%20-%20Video%20Speed%20Controller"> 28 - Video Speed Controller</a> 
 
