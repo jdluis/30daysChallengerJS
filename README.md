@@ -55,6 +55,6 @@
 
 ### Day 26 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/28%20-%20Video%20Speed%20Controller"> 28 - Video Speed Controller</a>:heavy_check_mark:
 
-### Day 27 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/29%20-%20Countdown%20Timer"> 29 - Countdown Timer</a> 
+### Day 27 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/29%20-%20Countdown%20Timer"> 29 - Countdown Timer</a>:heavy_check_mark:
 
 ### Day 28 OCT Chalenge: <a href="https://github.com/jdluis/30daysChallengerJS/tree/main/30%20-%20Whack%20A%20Mole"> 30 - Whack A Mole</a> 
